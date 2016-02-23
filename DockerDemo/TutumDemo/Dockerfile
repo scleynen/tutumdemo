@@ -1,4 +1,4 @@
-﻿FROM node:latest
+FROM node:latest
 
 # Copy project files and change working directory
 COPY . /src
