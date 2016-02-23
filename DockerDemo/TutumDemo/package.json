@@ -1,0 +1,10 @@
+{
+  "name": "TutumDemo",
+  "version": "0.0.0",
+  "description": "TutumDemo",
+  "main": "server.js",
+  "author": {
+    "name": "SCYAQ02",
+    "email": ""
+  }
+}
